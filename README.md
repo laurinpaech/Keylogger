@@ -6,14 +6,14 @@ I got a couple more ideas, which I'll add in the future.
 
 # Install
 
-1. To launch it from startup put the plist (contains the infos for launchd) in one of the following directories:
+1. Compile the Keylogger using Make (just open the terminal, browse to the corresponding folder and type: make)
+
+2. Put the Keylogger Program in /usr/local/bin/
+
+3. To launch it from startup put the plist (contains the infos for launchd) in one of the following directories:
 /System/Library/LaunchDaemon
 /Library/LaunchDaemon (recommended)
 (Admin Password needed)
-
-2. Compile the Keylogger using Make (just open the terminal, browse to the corresponding folder and type: make)
-
-3. Put the Keylogger Program in /usr/local/bin/
 
 4. Restart and the Keylogger will start recording your keystrokes and log them all in /var/log/kv5a.log
 
