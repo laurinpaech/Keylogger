@@ -4,8 +4,7 @@
 #include <unistd.h>
 #include <time.h>
 
-#define PATH "/Users/airwalker/Desktop/kv5a.log"
-// #define PATH "/var/log/kv5a.log"
+#define PATH "/var/log/kv5a.log"
 
 FILE *f;
 
