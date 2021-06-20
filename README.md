@@ -22,7 +22,6 @@ Note: You can also launch the Keylogger from the terminal yourself instead but y
 # Disclaimer
 
 This Keylogger is for educational purposes only.
-Use it only on your own computer. - Don't be evil.
 
 # TODO: Short Explanation
 
