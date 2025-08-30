@@ -21,11 +21,4 @@ Note: You can also launch the Keylogger from the terminal yourself instead but y
 
 # Disclaimer
 
-This Keylogger is for educational purposes only.
-
-# TODO: Short Explanation
-
-macOS uses the Mach Kernel or is partly build on it at least.
-Therefore it uses the Mach ports, they are the native communication channels for the macOS Kernel.
-
-...
+This is for educational purposes only.
